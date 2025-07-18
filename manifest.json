@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Unofficial IWH Purple Theme",
+  "icons": {
+    "16": "Logo16.png",
+    "32": "Logo32.png",
+    "48": "Logo48.png",
+    "128": "Logo128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [51, 0, 102],
+      "frame_inactive": [186, 158, 242],
+      "tab_background_text": [255, 255, 255],
+      "ntp_background": [51, 0, 102],
+      "ntp_text": [255, 255, 255],
+      "button_background": [186, 158, 242, 0.2]
+    }
+  }
+}
