@@ -1,6 +1,6 @@
 {
-  "manifest_version": 2,
-  "version": "1.0",
+  "manifest_version": 3,
+  "version": "1.0.1",
   "name": "Unofficial IWH Purple Theme",
   "icons": {
     "16": "Logo16.png",
